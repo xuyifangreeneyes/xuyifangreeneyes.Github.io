@@ -4,25 +4,23 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="2020/12/27/hello-world/"/>
-      <url>2020/12/27/hello-world/</url>
+      <title>2020年终总结</title>
+      <link href="2020/12/27/2020%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
+      <url>2020/12/27/2020%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>2020年是令人难忘的一年。在不断见证历史的同时，我个人也站在人生的岔路口，经历了很多迷茫，最终在保研、出国、工作三个选项中选择了工作。</p><h2 id="在家学习"><a href="#在家学习" class="headerlink" title="在家学习"></a>在家学习</h2><p>上半年因为疫情待在绍兴老家好几个月。疫情减缓以后，我们一家人晚饭以后绕着小镇散步一圈，想来也挺惬意的。寒假里抽空把UW的dlsys（deep learning system）课学了，lab是写一个简易的神经网络框架，主要是写反向求导和优化算子，挺有趣的。春季学期在家上了几门课。《高级算法》讲了一些随机算法，我学得还算认真，但期末考试分数好像在及格线附近，多亏chihao高抬贵手。《数据库系统》的lab貌似是照搬wisc的，类似craft a database这种，体验不错。NLP和点过程是两门炼丹课，就随便糊弄过去了。</p><h2 id="暑研"><a href="#暑研" class="headerlink" title="暑研"></a>暑研</h2><p>因为acm班规定大三暑假和大四上需要进行科研活动，我就联系到NYU的老师做暑研，内容是图神经网络稀疏矩阵乘法加速。因为疫情和签证的原因，暑研是线上的。我的暑研是一个彻底的失败。前几周还挺顺利，但之后发现idea不work，再加上我没有很主动地去沟通，项目进展缓慢。后来我自暴自弃去秋招找工作了，暑研就更加陷入停滞了。9月之后虽然我秋招基本面完了，但对暑研的热情也没多少了。现在想来，我确实对科研没有足够的热情，也没有读博的动力，我按部就班地照着培养计划上“进实验室-暑研-读博”的路线，被推着前进，有点赶鸭子上架的意思。</p><h2 id="秋招"><a href="#秋招" class="headerlink" title="秋招"></a>秋招</h2><p>在8月以前，我从未想过参加今年的秋招，顶多是打算等出国申请季结束，参加春招试试。但疫情爆发之后，出国读硕找工这条路似乎愈加不明朗。7月末找老姐聊了聊，她表示秋招的机会远多于春招，并且应届生的身份挺宝贵的。于是我整了一下简历开始投秋招了。因为完全没有准备，当时我心里非常慌，就一口气投了好多家公司。Google Calendar上笔试面试排得满满当当。8月一整个月我的精力几乎全部投入到秋招中了，暑研和实习的产出几乎为零。随着面试的推进，我对一些常见的面试基础知识也逐渐熟悉起来。但很多方面我依然非常欠缺，我在操作系统、多线程编程、分布式等方面的基础很差，APUE、DDIA这些书也完全没看过，对大部分公司用的技术和工具也一无所知。秋招一方面让我第一次走出象牙塔，看到究竟互联网公司的技术岗都在做些什么，另一方面也让我对自己大学四年的学习进行了反思，为什么我成绩还可以，但细细琢磨起来学到东西却寥寥无几，虚度了光阴。在秋招的过程中，我也认识了很多学长、朋友等。他们给了我很多帮助和鼓励，非常感激。</p><h2 id="PingCAP"><a href="#PingCAP" class="headerlink" title="PingCAP"></a>PingCAP</h2><p>12月初我来到PingCAP北京office实习。目前实习的内容是给TiDB修bug,然后添一些小feature。虽然只是一些trivial的PR，但也算是一个进步的起点吧。千里之行，始于足下。闲暇的时候看看游戏直播，偶尔读点书写点代码，日子挺充实的，摆脱了之前焦虑又无所事事的状态。</p><h2 id="对2021的展望"><a href="#对2021的展望" class="headerlink" title="对2021的展望"></a>对2021的展望</h2><p>2021年我将会毕业然后参加工作。给自己列个todolist吧。</p><ul><li>多读书，包括技术类和非技术类的，另外，即使不做科研了也要保持读论文的习惯。</li><li>读一些源码，最起码redis, leveldb这种源码要看看吧。参加一些开源社区。</li><li>养成写博客的习惯。</li><li>多锻炼，减减肥，打理一下自己，挣扎一下看看能不能找到女朋友。</li><li>把画画这个爱好重新拾起来。也可以尝试一下户外。</li></ul><p>总而言之，希望自己努力一些，向gaocegege等大佬学习，然后生活上更积极向上一些。</p>]]></content>
       
       
       <categories>
           
-          <category> Baz </category>
+          <category> 年终总结 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Foo </tag>
-            
-            <tag> Bar </tag>
+            <tag> 年终总结 </tag>
             
         </tags>
       
