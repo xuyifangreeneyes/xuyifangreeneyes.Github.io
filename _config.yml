@@ -5,7 +5,7 @@
 # Site
 title: Yifan Xu 徐逸凡
 subtitle: ''
-description: 'Born in Shaoxing, Zhejiang. A student at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn). Living in [Toussaint](https://witcher.fandom.com/wiki/Toussaint).'
+description: 'Hi, I am Yifan.<br>Born in Shaoxing, Zhejiang. Study at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn). Live in [Toussaint](https://witcher.fandom.com/wiki/Toussaint).'
 keywords:
 author: Yifan Xu
 language: en
@@ -101,7 +101,7 @@ ignore:
 theme: cactus
 
 theme_config:
-  colorscheme: white
+  colorscheme: dark
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
