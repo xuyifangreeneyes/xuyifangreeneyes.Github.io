@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Yifan Xu 徐逸凡
 subtitle: ''
-description: 'kkk'
+description: 'Born in Shaoxing, Zhejiang. A student at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn). Living in [Toussaint](https://witcher.fandom.com/wiki/Toussaint).'
 keywords:
-author: John Doe
+author: Yifan Xu
 language: en
 timezone: ''
 
@@ -99,10 +99,14 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: cactus
+
 theme_config:
-  colorscheme: classic
+  colorscheme: white
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+tongji:
+  enabled: true
